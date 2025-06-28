@@ -1,0 +1,37 @@
+{
+    "name": "solana_rbac_storage_final",
+    "version": "1.0.0",
+    "description": "The final, complete, and unsimplified RBAC storage system.",
+    "main": "src/core/server.js",
+    "scripts": {
+        "start": "node src/core/server.js",
+        "start:monitor": "node src/core/chain-monitor.js",
+        "start:keyservers": "node scripts/utils/run-all-epoch-servers.js",
+        "setup": "node scripts/1-full-system-setup.js",
+        "test": "jest",
+        "rotate": "node scripts/rotate-epoch-key.js"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^1.98.0",
+        "@sqds/multisig": "^2.1.3",
+        "arlocal": "^1.1.66",
+        "arweave": "^1.15.5",
+        "axios": "^1.4.0",
+        "bs58": "^6.0.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "libsodium-wrappers": "^0.7.15",
+        "node-cron": "^3.0.3",
+        "secrets.js-grempe": "^2.0.0",
+        "tweetnacl": "^1.0.3",
+        "tweetnacl-util": "^0.15.1"
+    },
+    "devDependencies": {
+        "jest": "^29.5.0",
+        "nodemon": "^3.1.9"
+    },
+    "overrides": {
+        "bs58": "^6.0.0"
+    }
+}

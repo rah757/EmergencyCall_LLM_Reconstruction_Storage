@@ -1,0 +1,16 @@
+node_modules/
+*.log
+
+emergencyenv/
+venv/
+
+.DS_Store
+
+__pycache__/
+*.pyc
+
+.env
+speechapi.json
+
+.RAG/__pycache__/
+RAG/__pycache__/

@@ -1,0 +1,11 @@
+{
+  "multisigPda": "EBohnhcTGKNBKXVqRAVbBe8NWtQhLLQF3fcjPoQyzvTB",
+  "vaultPda": "6G9ei2aGG6tqXrFQjEVCe7btx6XCFrXqV2FZNCE6mmx2",
+  "transactionPda": "ANCxr9CUgSbYhTRKFquytehskXWZk5XP1hKsfTK5sSg9",
+  "signatures": {
+    "create": "3raxK15uuLfTCJk3d9s2HvwGTgR7YFCAXEU3f2D6jKchnRY4Cz8gQYzX3USY5WiuBpS2cPFQC7mmx38R9QcSLwAx",
+    "proposal": "51AnvKpiqk5tVDeHamCY97JXmGiNZTmoMTrAXoMqFQaKRVGM1yvrQzUeJbde13QEAZYyv46oF9Vtnv8U3Chuijjt",
+    "approve": "4re58oEsyMFqpF9UVJgum9kK8PShJxrcKef8nLMQZ6n1m16pkdEG5CRsFAWAyBY6q1MT4M1hG2zP4PNep8keLAZY",
+    "execute": "4q2Lij1FSBPjiiCkwEzfUXauHEbepX5F3G88QDHbGWBX2bXrHreysUqgxqTyaH9WdTJwfNMcDSXGJGxatKhsnXS6"
+  }
+}

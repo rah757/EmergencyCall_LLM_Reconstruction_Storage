@@ -1,0 +1,12 @@
+{
+  "value": "test_reference_123",
+  "transactionIndex": "36",
+  "vaultPda": "6G9ei2aGG6tqXrFQjEVCe7btx6XCFrXqV2FZNCE6mmx2",
+  "multisigPda": "EBohnhcTGKNBKXVqRAVbBe8NWtQhLLQF3fcjPoQyzvTB",
+  "signatures": {
+    "create": "3Y21EfBWTne7rDRmHKxNgoLuuKXkVBa1yjTFwtMzE838Qt1z34erjhUcCkdMRHw4JwENNt77tcVUWaF5caEeescK",
+    "proposal": "3863mk1LXyem9QvXjWX7p2V1GaGA5HC8q8Ni62iCreCRNx1psgtCHZYdPaZMEYeJhuodJstA45Qg1agpUhKH8JWu",
+    "approve": "3MhrAQpwr18jgGLQbbXdFvhyBYyMSiZMLQ4nzp1cTyXRCxYWgmxwYJgVGYpTEE5PWkEuZqxUtc2MvXaANQh5ekyB",
+    "execute": "4YGQfB9qAn34cuM6bMJbrakpJHs5bK414HaNR2ic6FFCerNJhXmAirMEFyk5rGziXXgfs7QhpcGfUv2moqN4zQW3"
+  }
+}
