@@ -21,3 +21,12 @@ The architecture diagrams below illustrate the complete system workflow:
 ---
 
 **Note**: The private keys in this repository are for testing on the Solana devnet only and do not control any real assets.
+
+
+@article{rafi2025multilingual,
+  title={Multilingual Low-Latency Emergency VoIP System Using LLM for Speech Reconstruction and Blockchain for Secure Data Archiving},
+  author={Rafi, Rahman A and Ahmed, Shakil and Venkateshperumal, Danush and Khokhar, Ashfaq and Arifuzzaman, Md and Azad, AKM and Alyami, Salem A},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
+}
